@@ -1,0 +1,461 @@
+history > moving_around.txt
+~
+man less
+history | less
+help
+h
+history
+history -r
+ls
+mkdir antraeus
+cd repos
+cd Desktop/Codefellows/
+subl .
+ls .
+./
+.
+ls -R Desktop/Codefellows/
+ls Desktop/Codefellows/
+ls /Desktop/Codefellows
+ls ~
+..
+cd ../Guest
+cd
+../../../..
+repos
+Desktop/Codefellows/
+/
+cd ..
+pwd
+nano 
+cd antraeus
+cd my_first_repository
+ls 
+clear
+ls -a
+ls -la
+ls -p
+man ls
+ls -R
+ls -H
+ls -Sr
+ls -ql
+man rtfm
+rtfm
+ls -rlt
+ls -ltr
+ls -rlta
+ls -r
+ls -l
+ls -t
+cd /Users/aristidetosi/Desktop/Codefellows/
+cmd /Users/aristidetosi/Desktop/Codefellows/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/QxUaOQ | s
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global name 'Aristide Paolo Tosi'
+git config --global user.name 'antraeus'
+git config --global user.name 'Aristide Paolo Tosi'
+git config --global user.email 'antreus@gmail.com'
+git --version
+subl ~/.config/fish/config.fish
+echo $EDITOR
+subl /etc/paths
+subl 
+subl
+echo $EDITER
+echo $PATH
+echo $PATh
+cmd $HOME
+$HOME
+brew brew ls
+brew help
+brew
+brew brew search
+brew 
+brew in
+brew brew info
+brew update
+sudo apt-get C
+echo $SHELL
+brew install git
+eval $EDITOR
+cmd $EDITOR
+$EDITOR
+subl default.txt 
+cd repos/
+cd desktop/codefellows
+git status
+git
+brew doctor
+sudo adduser Development
+whoami
+ls -G
+ls -g
+uname
+subl -w
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cd ~/Applications/Sublime
+cd ~
+cd applications
+cd /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+subl ~/.config/fish/config/fish
+brew info fish
+brew info
+fish_update_completions
+cwd
+cmd ~
+cmd
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSL http://git.io.beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/HomeBrew/install/master/install)"
+git commit
+git add readme.md 
+nano readme.md
+git add README
+nano
+mv my_first_repository/ antraeus
+v my_first_repository/ antraeus
+git init my_first_repository
+git init_my_first_repository
+mv /my_first_repository /antraeus
+mv /my_first_repository antraeus
+cd codefellows
+cd desktop
+git init my_first_repository/
+mv default.txt
+git clone antraeus
+git clone
+cd ../../
+mv javascripts/ public/
+mkdir javascripts
+mv app.css ../../public
+mv app.ss ../../public
+mv stylesheet.css app.css
+touch stylesheet.css
+cd project/public/stylesheets
+mkdir -p project/public/stylesheets
+rm -r Dustbin
+cd ../
+rm -r Dustbin/
+mkdir -p ~/Desktop/Dustbin/Dustbunny/Void
+mkdir ~/Desktop/Dustbin/Dustbunny/Void
+mkdir ~/Desktop/Dustbin
+rm -i .config
+rm -i config
+touch .config
+rm .config
+touch style.css
+mv index.html default.html
+touch index.html
+cd documents/
+ls -la -p
+cd downloads/
+dasdflkj
+mkdir Wallpaper
+cd downloads
+man sudo
+sudo adduser
+curl -L trhou.se/patch01 | bash
+cd $HOME
+mv default.txt /Codefellows
+cp default.txt /Codefellows
+mv hey.txt default.txt
+cd Codefellows
+cd documents
+cd ../../../
+mv hey.txt /Codefellows
+mv hey.txt /codefellows
+list
+mkdir Codefellows
+rm hi.txt
+cp -r documentsls
+nano hey.txt
+less hey.txt 
+less hi
+cp hey.txt hi.txt
+cd users
+cd aristidetosi
+cd ../desktop/hey.txt
+mv hey.txt ../documents
+cd ../desktop
+mv hey.txt ../desktop
+ls documents/
+mv hey.txt documents/
+mv hi.txt hey.txt
+mv hello.txt hi.txt
+~ /home
+less hello.txt
+cd $documents
+cd /home
+/..
+../
+/home
+ps
+cd /users
+cd ../..
+/Users/aristidetosi/documents
+~/documents
+~/Users/aristidetosi
+cd /home/documents
+~Users
+cd ~user
+cd -bash
+cd document
+cd /documents
+cd documents/ -a
+cd /library
+cd documen/
+cd dp
+help pwd
+pwd -l
+pwd -a
+pws
+ls -l /etc
+ls -l /c
+ls /etc
+ls /downloads
+ls /documents
+ls ls /etc
+\documents
+/documents
+documents
+~
+history >> Desktop/Codefellows/repos/antraeus/moving_around.txt
+history > Desktop/Codefellows/repos/antraeus/moving_around.txt
+ls
+cd antraeus
+cd repos
+cd Desktop/Codefellows/
+cd
+rm moving_around.txt 
+rm hello.txt 
+cat hello.txt 
+echo "goodbye" >> hello.txt
+echo "hello" > hello.txt
+"Hello" > moving_around.txt
+ll
+ls -l
+history > moving_around.txt
+man less
+history | less
+help
+h
+history
+history -r
+mkdir antraeus
+subl .
+ls .
+./
+.
+ls -R Desktop/Codefellows/
+ls Desktop/Codefellows/
+ls /Desktop/Codefellows
+ls ~
+..
+cd ../Guest
+../../../..
+repos
+Desktop/Codefellows/
+/
+cd ..
+pwd
+nano 
+cd my_first_repository
+ls 
+clear
+ls -a
+ls -la
+ls -p
+man ls
+ls -R
+ls -H
+ls -Sr
+ls -ql
+man rtfm
+rtfm
+ls -rlt
+ls -ltr
+ls -rlta
+ls -r
+ls -t
+cd /Users/aristidetosi/Desktop/Codefellows/
+cmd /Users/aristidetosi/Desktop/Codefellows/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/QxUaOQ | s
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global name 'Aristide Paolo Tosi'
+git config --global user.name 'antraeus'
+git config --global user.name 'Aristide Paolo Tosi'
+git config --global user.email 'antreus@gmail.com'
+git --version
+subl ~/.config/fish/config.fish
+echo $EDITOR
+subl /etc/paths
+subl 
+subl
+echo $EDITER
+echo $PATH
+echo $PATh
+cmd $HOME
+$HOME
+brew brew ls
+brew help
+brew
+brew brew search
+brew 
+brew in
+brew brew info
+brew update
+sudo apt-get C
+echo $SHELL
+brew install git
+eval $EDITOR
+cmd $EDITOR
+$EDITOR
+subl default.txt 
+cd repos/
+cd desktop/codefellows
+git status
+git
+brew doctor
+sudo adduser Development
+whoami
+ls -G
+ls -g
+uname
+subl -w
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cd ~/Applications/Sublime
+cd ~
+cd applications
+cd /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+subl ~/.config/fish/config/fish
+brew info fish
+brew info
+fish_update_completions
+cwd
+cmd ~
+cmd
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSL http://git.io.beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/HomeBrew/install/master/install)"
+git commit
+git add readme.md 
+nano readme.md
+git add README
+nano
+mv my_first_repository/ antraeus
+v my_first_repository/ antraeus
+git init my_first_repository
+git init_my_first_repository
+mv /my_first_repository /antraeus
+mv /my_first_repository antraeus
+cd codefellows
+cd desktop
+git init my_first_repository/
+mv default.txt
+git clone antraeus
+git clone
+cd ../../
+mv javascripts/ public/
+mkdir javascripts
+mv app.css ../../public
+mv app.ss ../../public
+mv stylesheet.css app.css
+touch stylesheet.css
+cd project/public/stylesheets
+mkdir -p project/public/stylesheets
+rm -r Dustbin
+cd ../
+rm -r Dustbin/
+mkdir -p ~/Desktop/Dustbin/Dustbunny/Void
+mkdir ~/Desktop/Dustbin/Dustbunny/Void
+mkdir ~/Desktop/Dustbin
+rm -i .config
+rm -i config
+touch .config
+rm .config
+touch style.css
+mv index.html default.html
+touch index.html
+cd documents/
+ls -la -p
+cd downloads/
+dasdflkj
+mkdir Wallpaper
+cd downloads
+man sudo
+sudo adduser
+curl -L trhou.se/patch01 | bash
+cd $HOME
+mv default.txt /Codefellows
+cp default.txt /Codefellows
+mv hey.txt default.txt
+cd Codefellows
+cd documents
+cd ../../../
+mv hey.txt /Codefellows
+mv hey.txt /codefellows
+list
+mkdir Codefellows
+rm hi.txt
+cp -r documentsls
+nano hey.txt
+less hey.txt 
+less hi
+cp hey.txt hi.txt
+cd users
+cd aristidetosi
+cd ../desktop/hey.txt
+mv hey.txt ../documents
+cd ../desktop
+mv hey.txt ../desktop
+ls documents/
+mv hey.txt documents/
+mv hi.txt hey.txt
+mv hello.txt hi.txt
+~ /home
+less hello.txt
+cd $documents
+cd /home
+/..
+../
+/home
+ps
+cd /users
+cd ../..
+/Users/aristidetosi/documents
+~/documents
+~/Users/aristidetosi
+cd /home/documents
+~Users
+cd ~user
+cd -bash
+cd document
+cd /documents
+cd documents/ -a
+cd /library
+cd documen/
+cd dp
+help pwd
+pwd -l
+pwd -a
+pws
+ls -l /etc
+ls -l /c
+ls /etc
+ls /downloads
+ls /documents
+ls ls /etc
+\documents
+/documents
+documents
