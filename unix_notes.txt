@@ -1,3 +1,15 @@
+# git ll
+# git la
+# ctrl + L reorientates prompt to the top of the screen without clearing
+# echo repeats a string into the terminal can be piped and used as an output
+# git status
+# git add
+# git commit -m 'Present tense of commit'
+# git checkout -- <file>
+
+
+
+
 history > moving_around.txt
 ~
 man less
@@ -27,10 +39,10 @@ Desktop/Codefellows/
 /
 cd ..
 pwd
-nano 
+nano
 cd antraeus
 cd my_first_repository
-ls 
+ls
 clear
 ls -a
 ls -la
@@ -61,7 +73,7 @@ git --version
 subl ~/.config/fish/config.fish
 echo $EDITOR
 subl /etc/paths
-subl 
+subl
 subl
 echo $EDITER
 echo $PATH
@@ -72,7 +84,7 @@ brew brew ls
 brew help
 brew
 brew brew search
-brew 
+brew
 brew in
 brew brew info
 brew update
@@ -82,7 +94,7 @@ brew install git
 eval $EDITOR
 cmd $EDITOR
 $EDITOR
-subl default.txt 
+subl default.txt
 cd repos/
 cd desktop/codefellows
 git status
@@ -114,7 +126,7 @@ echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
 brew install fish
 ruby -e "$(curl -fsSL https://raw.github.com/HomeBrew/install/master/install)"
 git commit
-git add readme.md 
+git add readme.md
 nano readme.md
 git add README
 nano
@@ -175,7 +187,7 @@ mkdir Codefellows
 rm hi.txt
 cp -r documentsls
 nano hey.txt
-less hey.txt 
+less hey.txt
 less hi
 cp hey.txt hi.txt
 cd users
@@ -232,9 +244,9 @@ cd antraeus
 cd repos
 cd Desktop/Codefellows/
 cd
-rm moving_around.txt 
-rm hello.txt 
-cat hello.txt 
+rm moving_around.txt
+rm hello.txt
+cat hello.txt
 echo "goodbye" >> hello.txt
 echo "hello" > hello.txt
 "Hello" > moving_around.txt
@@ -264,9 +276,9 @@ Desktop/Codefellows/
 /
 cd ..
 pwd
-nano 
+nano
 cd my_first_repository
-ls 
+ls
 clear
 ls -a
 ls -la
@@ -296,7 +308,7 @@ git --version
 subl ~/.config/fish/config.fish
 echo $EDITOR
 subl /etc/paths
-subl 
+subl
 subl
 echo $EDITER
 echo $PATH
@@ -307,7 +319,7 @@ brew brew ls
 brew help
 brew
 brew brew search
-brew 
+brew
 brew in
 brew brew info
 brew update
@@ -317,7 +329,7 @@ brew install git
 eval $EDITOR
 cmd $EDITOR
 $EDITOR
-subl default.txt 
+subl default.txt
 cd repos/
 cd desktop/codefellows
 git status
@@ -349,7 +361,7 @@ echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
 brew install fish
 ruby -e "$(curl -fsSL https://raw.github.com/HomeBrew/install/master/install)"
 git commit
-git add readme.md 
+git add readme.md
 nano readme.md
 git add README
 nano
@@ -410,7 +422,7 @@ mkdir Codefellows
 rm hi.txt
 cp -r documentsls
 nano hey.txt
-less hey.txt 
+less hey.txt
 less hi
 cp hey.txt hi.txt
 cd users
